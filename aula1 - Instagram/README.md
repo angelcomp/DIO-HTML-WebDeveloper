@@ -1,7 +1,12 @@
 
-Esse é o repositório da aula de Flexbox, na qual fiz a interface de login do Instagram! 
+# Instagram #
 
-### Os requisitos são:
+## Clone da página de login do Instagram ##
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+#### 👀 PREVIEW: ###
+
+<img src="https://github.com/angelcomp/DIO-HTML-WebDeveloper/blob/main/print-readme/insta.png">
+
+#### 💻 Site:
+
+[Clique para ir visitar](https://angelcomp.github.io/DIO-HTML-WebDeveloper/aula1%20-%20Instagram/)
