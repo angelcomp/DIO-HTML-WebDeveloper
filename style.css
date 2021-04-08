@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(211, 232, 241);
 }
 
 header {
@@ -16,7 +17,6 @@ header {
 }
 
 main {
-    background-color: rgb(211, 232, 241);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -35,6 +35,7 @@ div {
 }
 
 h1 {
+    background-color: rgb(148, 212, 212);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
     padding: 10px;
@@ -42,6 +43,7 @@ h1 {
 }
 
 a {
+    background-color: rgb(148, 212, 212);
     text-decoration: none;
     color: black;
     
