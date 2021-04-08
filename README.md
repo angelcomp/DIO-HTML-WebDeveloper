@@ -7,7 +7,10 @@
 
 <img src="https://github.com/angelcomp/DIO-HTML-WebDeveloper/blob/main/print-readme/home.png">
 
-#### 💻 Sites:
+#### 💻 Site:
 
-[Clique para ir ver os projetos](https://angelcomp.github.io/DIO-HTML-WebDeveloper/)
-[Conheça a DIO](https://digitalinnovation.one)
+[Clique para ir visitar os projetos](https://angelcomp.github.io/DIO-HTML-WebDeveloper/)
+
+#### 🏆 DIO:
+
+[Conheça a Digital Innovation One](https://digitalinnovation.one)
