@@ -1,7 +1,7 @@
 
 # Projetos da DIO #
 
-## Alguns dos projetos feito em aula no curso da DIO ##
+## Alguns dos projetos feitos em aula no curso da DIO ##
 
 #### 👀 PREVIEW: ###
 
